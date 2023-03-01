@@ -55,5 +55,3 @@ console.log(withBob);
 //Timothy Mulalinda
 //Gloria Susanto
 //Virgil Weol
-
-//hehe
